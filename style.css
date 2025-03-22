@@ -1,0 +1,33 @@
+
+th,td,{
+   text-align: center;
+   border="2"
+    padding:100px;
+    width: 250px;
+
+    
+}
+table{
+    width: 500px;
+height: 250px;
+    margin: auto;
+   
+    
+}
+body{
+    background-color: rgb(186, 236, 236);
+    padding: 20px;
+    border: 2px solid black;
+    font-size: large;
+    
+}
+h1,h2{
+    text-align: center;
+    color: rgb(153, 119, 56);
+}
+a{
+    color: rgb(245, 83, 83);
+}
+p{
+    text-align: center;
+}
